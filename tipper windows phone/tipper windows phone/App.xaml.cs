@@ -18,7 +18,7 @@ using Windows.UI.Xaml.Navigation;
 
 // The Blank Application template is documented at http://go.microsoft.com/fwlink/?LinkId=391641
 
-namespace windowsPhone
+namespace tipper_windows_phone
 {
     /// <summary>
     /// Provides application-specific behavior to supplement the default Application class.
