@@ -20,9 +20,9 @@ namespace tipper_windows_phone
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
-    public sealed partial class wallet : Page
+    public sealed partial class tipping : Page
     {
-        public wallet()
+        public tipping()
         {
             this.InitializeComponent();
         }
